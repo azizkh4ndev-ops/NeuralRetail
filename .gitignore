@@ -1,6 +1,15 @@
-.venv/
-venv/
-data/
-*.csv
+# Data (optional: keep cleaned small data only)
+data/*OnlineRetail.csv
+
+# Models
+models/*.pkl
+
+# Outputs
+outputs/
+
+# Python
 __pycache__/
+*.pyc
+
+# Jupyter
 .ipynb_checkpoints/
