@@ -1,5 +1,5 @@
-# Data (optional: keep cleaned small data only)
-data/*OnlineRetail.csv
+# Data
+data/*.csv
 
 # Models
 models/*.pkl
@@ -11,5 +11,5 @@ outputs/
 __pycache__/
 *.pyc
 
-# Jupyter
+# Notebooks
 .ipynb_checkpoints/
